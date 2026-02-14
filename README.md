@@ -17,3 +17,20 @@ Assurez-vous d'avoir Python installé.
 git clone https://github.com/LeM2003/Python-SysAdmin-Tools.git
 cd Python-SysAdmin-Tools
 python scanner.py
+
+---
+
+## 👨‍💻 Auteur
+
+**Mouhamadou Diouf**
+
+🎓 Étudiant en Master Data Science & Intelligence Artificielle  
+📍 Swiss UMEF University - Dakar, Sénégal
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mouhamadou_Diouf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamadou-diouf-364309276)
+[![GitHub](https://img.shields.io/badge/GitHub-@LeM2003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeM2003)
+[![Email](https://img.shields.io/badge/Email-dioufmouha71@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dioufmouha71@gmail.com)
+
+---
+
+Made with ❤️ in Dakar, Senegal 🇸🇳
